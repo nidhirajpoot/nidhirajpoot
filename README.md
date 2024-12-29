@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Nidhi Singh</h1>
 <h3 align="center">A passionate MernStack developer from India</h3>
 
