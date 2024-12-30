@@ -291,3 +291,11 @@ Feel free to check out my repositories, contribute to my projects, or share feed
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhirajpoot&show_icons=true&locale=en&layout=compact" alt="nidhirajpoot" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhirajpoot&show_icons=true&locale=en" alt="nidhirajpoot" /></p>
+
+### 🌟 Thank You for Visiting!
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript" />
+</p>
+
