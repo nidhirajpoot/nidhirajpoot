@@ -1,3 +1,71 @@
+# Hi there! 👋 I'm [NIDHI SINGH] 👨‍💻
+
+Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a strong foundation in building dynamic, responsive, and user-friendly web applications. I love to learn new technologies and solve challenging problems through code.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend:
+- **React.js**
+- HTML5
+- CSS3 (Flexbox, Grid, and responsive design)
+- JavaScript (ES6+)
+
+### Backend:
+- **Node.js**
+- **Express.js**
+- RESTful APIs
+- WebSocket
+
+### Database:
+- **MongoDB** (Mongoose, Aggregation Framework)
+- MYSQL
+- SQL
+
+---
+
+## 🔥 What I Do
+- Build robust **full-stack web applications** using the MERN stack.
+- Create **responsive UIs** with React.js, HTML, CSS, and JavaScript.
+- Develop **secure and scalable APIs** for the backend.
+- Integrate **MongoDB databases** and ensure data consistency.
+- Write clean and maintainable code following industry best practices.
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 📫 How to Reach Me
+Feel free to connect with me or drop me a message:
+
+- **Email**: [your-email@example.com](nidhisinghrajpoot9@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nidhi-singh-rajpoot-ba4067237/)
+- **Leetcode**: [Your Keetcode Profile](https://leetcode.com/u/rajpoot_21/)
+
+---
+
+## 🌱 Currently Learning
+- Advanced React.js (Hooks, Context API, Redux)
+- Next.js for server-side rendering
+- TypeScript for React and Node.js
+
+---
+
+## 🏆 Fun Facts
+- 🌟 I’m constantly experimenting with new frameworks and libraries.
+- ⚡ I enjoy mentoring junior developers and sharing knowledge.
+- 🎮 In my free time, I love playing video games and solving puzzles.
+
+---
+
+## 👨‍💻 Let's Code Together
+Feel free to check out my repositories, contribute to my projects, or share feedback. Let's collaborate and build something awesome! 🚀
 
 <h1 align="center">Hi 👋, I'm Nidhi Singh</h1>
 <h3 align="center">A passionate MernStack developer from India</h3>
