@@ -1,3 +1,96 @@
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate MERN Stack Developer 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+coding+%26+building+cool+stuff.;Let's+explore+the+world+of+development." alt="Typing SVG" />
+</p>
+
+---
+
+### 🌟 About Me
+
+- 💻 I specialize in **MERN Stack Development**.
+- 🧑‍💻 Currently working on **scalable web applications** and **RESTful APIs**.
+- 🌱 I’m always learning **new technologies** to expand my knowledge and skills.
+- ⚡ Fun fact: I enjoy debugging almost as much as writing code! 😊
+
+---
+
+### 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+---
+
+### 🚀 My Projects
+
+Here are some of my favorite projects:
+
+1. **[E-Commerce Platform](https://github.com/yourusername/ecommerce-platform)**  
+   🛒 A full-stack e-commerce application with user authentication, product management, and payment gateway integration.  
+   - Built with **React**, **Node.js**, **Express**, and **MongoDB**.
+
+2. **[Portfolio Website](https://github.com/yourusername/portfolio-website)**  
+   🌐 A responsive personal portfolio showcasing my skills and projects.  
+   - Built with **ReactJS**, **HTML5**, **CSS3**, and **JavaScript**.
+
+3. **[Task Manager API](https://github.com/yourusername/task-manager-api)**  
+   🗂️ A RESTful API for task management with CRUD operations and user authentication.  
+   - Built with **Node.js**, **Express**, and **MongoDB**.
+
+---
+
+### 📫 How to Reach Me
+
+- 🌐 **Website**: [yourwebsite.com](https://yourwebsite.com)  
+- 📧 **Email**: [youremail@gmail.com](mailto:youremail@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+
+---
+
+### 🌟 Fun Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🛠️ Skills Breakdown
+
+#### Frontend:
+- **ReactJS**: Reusable components, hooks, and state management.
+- **HTML/CSS/JavaScript**: Creating responsive, accessible, and interactive web pages.
+
+#### Backend:
+- **Node.js**: Server-side programming and middleware management.
+- **Express.js**: RESTful API development and backend architecture.
+
+#### Database:
+- **MongoDB**: Designing and managing NoSQL databases.
+- **Mongoose**: Simplified schema and model development.
+
+---
+
+### 🌟 Thank You for Visiting!
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript" />
+</p>
+
 # Hi there! 👋 I'm [NIDHI SINGH] 👨‍💻
 
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a strong foundation in building dynamic, responsive, and user-friendly web applications. I love to learn new technologies and solve challenging problems through code.
