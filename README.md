@@ -21,7 +21,7 @@ Feel free to connect with me or drop me a message:
 - Write clean and maintainable code following industry best practices.
 
 
-  ## 🌱 Currently Learning
+## 🌱 Currently Learning
 - Advanced React.js (Hooks, Context API, Redux)
 - Next.js for server-side rendering
 - TypeScript for React and Node.js
@@ -47,6 +47,5 @@ Feel free to check out my repositories, contribute to my projects, or share feed
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/made-with-Passion.svg" alt="Made with Passion" />
 </p>
 
