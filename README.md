@@ -2,16 +2,19 @@
 <h3 align="center">
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a strong foundation in building dynamic, responsive, and user-friendly web applications. I love to learn new technologies and solve challenging problems through code.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhirajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="nidhirajpoot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhirajpoot" alt="nidhirajpoot" /></a> </p>
 
+
 ## 📫 How to Reach Me
 Feel free to connect with me or drop me a message:
 
+
 - **Email**: nidhisinghrajpoot9@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/nidhi-singh-rajpoot-ba4067237/
-- **Leetcode**: https://leetcode.com/u/rajpoot_21/
+
 
 ## 🔥 What I Do
 - Build robust **full-stack web applications** using the MERN stack.
@@ -30,7 +33,6 @@ Feel free to connect with me or drop me a message:
 ## 🏆 Fun Facts
 - 🌟 I’m constantly experimenting with new frameworks and libraries.
 - ⚡ I enjoy mentoring junior developers and sharing knowledge.
-- 🎮 In my free time, I love playing video games and solving puzzles.
 
 
 <h3 align="left">Languages and Tools:</h3>
