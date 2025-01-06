@@ -49,6 +49,17 @@ Feel free to check out my repositories, contribute to my projects, or share feed
 
 ### 🌟 Thank You for Visiting!
 
+<h3 align="center">Built with ❤️ by Nidhi Singh</h3>
+
+<p align="center">
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/-Nidhi%20Singh-blue?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+
+
+
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
 </p>
