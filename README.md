@@ -42,6 +42,8 @@ Feel free to connect with me or drop me a message:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhirajpoot&show_icons=true&locale=en" alt="nidhirajpoot" /></p>
 
+<p><img src="https://user-images.githubusercontent.com/39916680/132490679-1b93cc7e-d718-4410-9f43-8a5387c2cc7a.png" alt="" /></p>
+
 ## 👨‍💻 Let's Code Together
 Feel free to check out my repositories, contribute to my projects, or share feedback. Let's collaborate and build something awesome! 🚀
 
