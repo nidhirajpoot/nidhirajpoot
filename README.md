@@ -1,3 +1,4 @@
+<h1 align="center"> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Howdy GitHub-er, Gantavya this side!</h1>
 <h1 align="center"> Hi there! 👋 I'm NIDHI SINGH 👨‍💻</h1>
 <h3 align="center">
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a strong foundation in building dynamic, responsive, and user-friendly web applications. I love to learn new technologies and solve challenging problems through code.</h3>
